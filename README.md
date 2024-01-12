@@ -22,3 +22,4 @@
 https://jakkiexplore.github.io/be-on-time-scheduler/
 
 ## Screenshot
+![Screenshot of scheduler](./assets/images/SS%20of%20Scheduler.png)
